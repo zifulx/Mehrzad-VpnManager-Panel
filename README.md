@@ -37,4 +37,5 @@ https://t.me/limoo_support
 - QR code generation for client configurations
 
 ## Telegram Channel
-Stay updated on our latest developments by joining our Telegram channel at [ZcJSqGOnljdhZmJk](https://t.me/+ZcJSqGOnljdhZmJk).
+Stay updated on our latest developments by joining our Telegram channel at 
+https://t.me/mehrzadmanagerpanel
