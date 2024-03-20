@@ -17,6 +17,7 @@ For support and inquiries, reach out to us on Telegram at [limoo_support](https:
 
 ## How to Use
 To enable the panel, simply contact us via Telegram.
+https://t.me/limoo_support
 
 ### Version 1.1
 #### New Features:
