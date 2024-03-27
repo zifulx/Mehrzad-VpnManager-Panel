@@ -35,7 +35,8 @@ https://t.me/limoo_support
 - QR code generation for client configurations
 
 ## Preview
-https://github.com/zifulx/Mehrzad-VpnManager-Panel/blob/main/IMG_20240328_022155.jpg
+![Preview](IMG_20240328_022155.jpg
+)
 
 ## Telegram Channel
 Stay updated on our latest developments by joining our Telegram channel at 
