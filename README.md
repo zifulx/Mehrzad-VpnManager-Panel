@@ -20,7 +20,7 @@ To enable the panel, simply contact us via Telegram.
 https://t.me/limoo_support
 
 ### Version 1.1
-#### Features:
+#### New Features:
 - Panel settings added for setting new passwords
 - Host settings added to configure VPN panels (3X-UI supported)
 - Search bar functionality added
