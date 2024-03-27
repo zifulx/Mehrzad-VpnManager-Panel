@@ -30,9 +30,7 @@ https://t.me/limoo_support
 
 ## Next Update for Panel
 - Implementation of HTTPS connection for API (currently using HTTP)
-- Expiring soon filter search option
 - Addition/Editing of client section
-- Host zone setup for clients
 - URL path in panel settings for enhanced security
 - QR code generation for client configurations
 
