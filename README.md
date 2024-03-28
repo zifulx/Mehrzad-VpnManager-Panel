@@ -30,7 +30,6 @@ https://t.me/limoo_support
 
 ## Next Update for Panel
 - Implementation of HTTPS connection for API (currently using HTTP)
-- Addition/Editing of client section
 - URL path in panel settings for enhanced security
 - QR code generation for client configurations
 
